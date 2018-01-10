@@ -1,3 +1,7 @@
+/*
+  index.html css styles
+*/
+
 .row-header {
   margin: 0px auto;
   padding: 0px auto;
@@ -27,4 +31,16 @@
   font-size: 80%;
   margin: 0px;
   color: #0F0F0F;
+}
+
+
+/*
+  aboutus.html css styles
+*/
+
+.content-row {
+  margin: 0px auto;
+  margin-top: 50px;
+  padding: 0px auto;
+  min-height: 400px;
 }
