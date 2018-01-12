@@ -33,14 +33,11 @@
   color: #0F0F0F;
 }
 
+body {
+  padding-top: 50px;
+  z-index: 0;
+}
 
-/*
-  aboutus.html css styles
-*/
-
-.content-row {
-  margin: 0px auto;
-  margin-top: 50px;
-  padding: 0px auto;
-  min-height: 400px;
+.navbar-inverse {
+  background-color: #512DA8;
 }
